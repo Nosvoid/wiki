@@ -134,7 +134,7 @@ const Aside = ({setLocale}) => {
           <MenuItem 
           
           
-            icon={<FaTachometerAlt />}
+            icon={<FaTachometerAlt />} 
             
             
           >
@@ -143,7 +143,6 @@ const Aside = ({setLocale}) => {
             {intl.formatMessage({ id: 'dashboard' })}
             </a>
           </MenuItem>
-          
           
           <MenuItem icon={<FaRegFileAlt />}><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
           
