@@ -55,7 +55,7 @@ export default function Shopupdate() {
   <li class="list-group-item d-flex justify-content-center"> Akamur Coupon x50</li>
   <li class="list-group-item d-flex justify-content-center">Piece of Sandstorm x200</li>
   <li class="list-group-item d-flex justify-content-center">Golden Raid Ticket x200</li>
-  <li class="list-group-item d-flex justify-content-center">Shiny Sky Blue Gem x10</li>
+  <li class="list-group-item d-flex justify-content-center">Shiny Sky Blue Gem x20</li>
   <li class="list-group-item d-flex justify-content-center">Family Tower Coins x2000</li>
 </ul>
 
@@ -70,7 +70,7 @@ export default function Shopupdate() {
                  
                  <ul class="list-group">
   <li class="list-group-item d-flex justify-content-center ">Family Tower Coins x200</li>
-  <li class="list-group-item d-flex justify-content-center">Shiny Violet Gem x3</li>
+  <li class="list-group-item d-flex justify-content-center">Shiny Violet Gem x6</li>
   <li class="list-group-item d-flex justify-content-center">Ibrahim`s Dark Key x1</li>
   <li class="list-group-item d-flex justify-content-center ">Ibrahim`s Bag x1</li>
 </ul>

@@ -42,7 +42,7 @@ export default function Shopupdate() {
                  <div class="alert alert-secondary nosvoid-color text-center" role="alert">
                  <b>Family Dungeon will take place at <u className='youtube-color'>17:00 SERVER TIME</u> each day. <br></br>The event is all about battles between families. <br></br>
                  The person who got killed will be teleported to NosVille but if you get a kill you will get Reputation.<br></br> 
-                 There will be no time limit for Family Dungeon, the last Family standing takes the win.<br></br></b>
+                 There will be no time limit for Family Dungeon, the last Family standing takes the win.<br></br>You will get 1x Broken Relic Piece after each kill on Family Dungeon. (You can see a craft NPC next to Family Dungeon NPC for that.)</b>
                  <br></br>
                  <br></br>
                  <img src="asset/prestige81/famdung1.png" class="rounded-circle border border-danger toobigimg" alt="A generic square placeholder with rounded corners in a figure."/>

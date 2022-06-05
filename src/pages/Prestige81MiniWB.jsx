@@ -40,7 +40,7 @@ export default function Shopupdate() {
 
 <div class='borderoLP'>
                  <div class="alert alert-secondary nosvoid-color text-center" role="alert">
-                 <b>Mini World Boss will take place at <u className='youtube-color'>4:40 PM</u> each day. <br></br>There will be 3 rounds of 30 seconds each. <br></br>Your task in each round will be to locate <u className='youtube-color'>Strange Chests</u> on the map and destroy them.</b>
+                 <b>Mini World Boss will take place at <u className='youtube-color'>4:40 PM and 01:00 AM</u> each day. <br></br>There will be 3 rounds of 30 seconds each. <br></br>Your task in each round will be to locate <u className='youtube-color'>Strange Chests</u> on the map and destroy them.</b>
                  <br></br>
                  <br></br>
 <img src="asset/prestige81/miniwb1.png" class="rounded-circle border border-danger toobigimg" alt="A generic square placeholder with rounded corners in a figure."/>
@@ -49,7 +49,9 @@ export default function Shopupdate() {
 <br></br>
 <img src="asset/prestige81/miniwb2.png" class="figure-img img-fluid " alt="A generic square placeholder with rounded corners in a figure."/>
 
-                 <b>Strange Chests will spawn in random locations.</b>
+                 <b>Strange Chests will spawn in random locations. <br></br>
+                   After killing Strange Chest you can get 1x Piece of Sandstorm & Golden Raid Ticket.
+                 </b>
                  </div>
                  <br></br>
 <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h10>Mini World Boss Rewards</h10></div></p>

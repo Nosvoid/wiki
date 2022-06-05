@@ -38,7 +38,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt="" /></td>
                                 <td>P4</td>  
-
+  
                             </tr>
                             <tr>
                                 <th scope="row">Fairy Affinity</th>

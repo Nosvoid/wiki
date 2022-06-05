@@ -69,30 +69,7 @@ export default function Shopupdate() {
  </div>
 </div>
 </div>
-<div className='borderoLP'>
-                     
-<strong><p class="text-primary">Successfully complete 8 floor in Family Tower Game</p></strong>
-<ul class="list-group">
-  <li class="list-group-item">10x Family Tower Coin</li>
-  <li class="list-group-item">200.000 Reputation</li>
-  <li class="list-group-item">2x Tower Salvation Potion</li></ul>
-  <br></br>
-  <div class="col-xs-12 col-md-6">
- <div class="row">
-  <div class="col-xs-4 col-md-2">
-  <img src="asset/prestige81/quest4.png" class="img-responsive" alt="Logo"/>
-  </div>
-  <div class="col-xs-4 col-md-2">
-  <img src="asset/prestige81/quest5.png" class="img-responsive" alt="Logo"/>
-  </div>
-  <div class="col-xs-4 col-md-2">
-  <img src="asset/prestige81/quest3.png" class="img-responsive" alt="Logo"/>
-  </div>
-  
 
- </div>
-</div>
-</div>
 <div className='borderoLP'>
                      
                      <strong><p class="text-primary">Successfully complete Monstrous Golden Sandstorm Raid 1 (0/10)</p></strong>

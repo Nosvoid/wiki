@@ -42,15 +42,15 @@ export default function Shopupdate() {
 <div class='borderoLP'>
                  <div class="alert alert-secondary nosvoid-color text-center" role="alert">
                  <b className='justify-content-center'>Family Tower is a new instance for the whole family where you can get new items, buffs and climb the Family Tower ranking.<br></br>
-Your task is to defeat every boss on the floor. There are <u className='youtube-color'>11</u> floors.<br></br> The Floors will progressively get harder. Remember that on each floor your time is limited to <u className='youtube-color'>180 sec</u>. <br></br>Entry to the Family Tower resets daily at <u className='youtube-color'>00:00</u>. To go there, <u className='youtube-color'>Leader / Co-Leader</u> must enter the starting portal, everyone on the map will be teleported into the instance. <br></br>
+Your task is to defeat every boss on the floor. There are <u className='youtube-color'>11</u> floors.<br></br> The Floors will progressively get harder. Remember that on each floor your time is limited to <u className='youtube-color'>300 sec</u>. <br></br>Entry to the Family Tower resets daily at <u className='youtube-color'>6:00 PM</u>. To go there, <u className='youtube-color'>Leader / Co-Leader</u> must enter the starting portal, everyone on the map will be teleported into the instance. <br></br>
 After every floor you'll be rewarded with some Family Tower Coins which you can use to craft new Items.<br></br>
-If you die in Family Tower you can use Tower Salvation Potion to revive. You can get Tower Salvation Potion after finishing floors and from Daily Quest.<br></br>When Co Leader or Any Leader go in via NPC "Family Tower Game" it will teleport all members from prestige 8.1 map. If you're not in 8.1 Prestige map, you wont be teleported.</b>
+If you die in Family Tower you can use Tower Salvation Potion to revive. You can get Tower Salvation Potion after finishing floors.<br></br>When Co Leader or Any Leader go in via NPC "Family Tower Game" it will teleport all members from prestige 8.1 map. If you're not in 8.1 Prestige map, you wont be teleported.</b>
 <br></br>
 <img src="asset/prestige81/tower3.png" class="rounded-circle border border-danger toobigimg" alt="A generic square placeholder with rounded corners in a figure."/>
 </div>
 <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Family Tower Buffs</h5></div></p>
 <div class="alert alert-secondary nosvoid-color text-center" role="alert">
-                 <b>After the floors are completed, all those members on family tower will gain buffs that last until the next Family Tower reset. <br>
+                 <b>After Completing Floor 5 & 9 you'll receive a Buff which will be active till the next Family Tower reset. <br>
                  </br>Meaning attending Family Tower everyday could basically get you a permanent Buff.</b><hr></hr>
              
                    

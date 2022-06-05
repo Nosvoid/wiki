@@ -37,7 +37,7 @@ export default function Shopupdate() {
 <br></br>
 </div>
 <div className="borderoLP">
-                 <p class="text-center">You can buy Lottery Tickets for 24kk each. After buying, you get the Lottery Box. <p class="youtube-color">You can buy only 500 Lottery Boxes per week. </p></p>
+                 <p class="text-center">You can buy Lottery Tickets for 240kk each. After buying, you get the Lottery Box. <p class="youtube-color">You can buy only 50 Lottery Boxes per month. </p></p>
                  <img src="asset/prestige81/lottery1.png" class="figure-img img-fluid " alt="A generic square placeholder with rounded corners in a figure."/>
                  <hr></hr>
 <br></br>
@@ -63,7 +63,6 @@ export default function Shopupdate() {
   <li class="list-group-item d-flex justify-content-center">Costume Fusion</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Renaming Card</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Lightning Wings</li>
-  <li class="list-group-item d-flex justify-content-center youtube-color">Honeybee Costume Set</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Upgrade Weapon Skin</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Giant Lump of Gold</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Super Fortune Bushtail</li>
@@ -76,10 +75,6 @@ export default function Shopupdate() {
   <li class="list-group-item d-flex justify-content-center youtube-color">Petal Wings</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">Specialist Skin Potion</li>
   <li class="list-group-item d-flex justify-content-center youtube-color">TurtleCopter</li>
-  <li class="list-group-item d-flex justify-content-center youtube-color">Wonderland Costume Set</li>
-  <li class="list-group-item d-flex justify-content-center youtube-color">Reindeer Costume Set</li>
-  <li class="list-group-item d-flex justify-content-center youtube-color">Pixie Costume Set</li>
-  <li class="list-group-item d-flex justify-content-center youtube-color">Zephyr Wings</li>
 </ul>
 
                 <hr></hr>
@@ -95,13 +90,26 @@ export default function Shopupdate() {
   <li class="list-group-item d-flex justify-content-center">Giant Lump of Gold</li>
   <li class="list-group-item d-flex justify-content-center">Change Wings</li>
   <li class="list-group-item d-flex justify-content-center">Yuna</li>
-  <li class="list-group-item d-flex justify-content-center">Freya</li>
-  <li class="list-group-item d-flex justify-content-center">Barni</li>
-  <li class="list-group-item d-flex justify-content-center ">Aegir</li>
   <li class="list-group-item d-flex justify-content-center">Frankenstain</li>
   <li class="list-group-item d-flex justify-content-center">Ceremonial helmet</li>
   <li class="list-group-item d-flex justify-content-center">Auto Bet Item</li>
   <li class="list-group-item d-flex justify-content-center ">Magic Bone Drake</li>
+  <li class="list-group-item d-flex justify-content-center ">Flame Pet</li>
+  <li class="list-group-item d-flex justify-content-center ">Seraphim (normal)</li>
+  <li class="list-group-item d-flex justify-content-center ">Enkidu</li>
+  <li class="list-group-item d-flex justify-content-center ">Namaju (normal)</li>
+  <li class="list-group-item d-flex justify-content-center ">Koala</li>
+  <li class="list-group-item d-flex justify-content-center ">Upgrade Weapon Skin x5</li>
+  <li class="list-group-item d-flex justify-content-center ">King of Void Tittle</li>
+  <li class="list-group-item d-flex justify-content-center ">Honeybee Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Frost Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Zephyr Wings</li>
+  <li class="list-group-item d-flex justify-content-center ">Pixie Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Reindeer Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Wonderland Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Dracula Costume Set</li>
+  <li class="list-group-item d-flex justify-content-center ">Amora PSP</li>
+  <li class="list-group-item d-flex justify-content-center ">Hongbi PSP</li>
   <li class="list-group-item d-flex justify-content-center item-effect-shell">Wheel Item</li>
   <li class="list-group-item d-flex justify-content-center item-effect-shell ">Wheel Item</li>
  
