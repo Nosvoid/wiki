@@ -4,7 +4,7 @@ import React from 'react'
 export default function EasterEvent() {
     return (
         <div className='easterevent'>
-            <div className="container">
+            <div className="container"> 
                 <br />
                 <div className='d-flex justify-content-center img50'><img src="asset/EasterEvent/easterbannernew.jpg" alt="" /></div>
                 <br />

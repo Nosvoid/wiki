@@ -88,6 +88,7 @@ import DB from './pages/DB';
 import Rep from './pages/Rep';
 import Gold from './pages/Gold';
 import EvolutionEvent from './pages/EvolutionEvent';
+import SummerEvent from './pages/SummerEvent';
 import EasterEvent from './pages/EasterEvent';
 import SpecialItem from './pages/SpecialItem';
 import SellableItems from './pages/SellableItems';
@@ -223,12 +224,15 @@ const Aside = ({ setLocale }) => {
               title={intl.formatMessage({ id: 'During Events' })}
               icon={<FaHeart />}
             >
+
               {/* 
+                <MenuItem><a href='summer'>{intl.formatMessage({ id: 'Summer' })} </a></MenuItem>
+
                 <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
                 <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
                 <MenuItem><a href='easterevent'>{intl.formatMessage({ id: 'Easter Event' })} </a></MenuItem>
               */}
-              
+
             </SubMenu>
 
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />} suffix={<span className="badge yellow">43</span>}>
@@ -441,6 +445,7 @@ const Aside = ({ setLocale }) => {
           <Route path='/reputation' component={Rep} />
           <Route path='/gold' component={Gold} />
           <Route path='/evolution' component={EvolutionEvent} />
+          <Route path='/summer' component={SummerEvent} />
           <Route path='/easterevent' component={EasterEvent} />
           <Route path='/specialitem' component={SpecialItem} />
           <Route path='/sellableitems' component={SellableItems} />

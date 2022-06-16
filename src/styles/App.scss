@@ -1170,6 +1170,7 @@ font-size: 60% !important;
   color: #dee2ec;
   border: 2px solid #e7e7e7be;
   box-shadow: inset;
+  min-width: 250px;
   padding: 60px;
   padding-top: 20px;
   padding-left: 25px;
@@ -1305,6 +1306,16 @@ a[class="upgraded"]:focus ~ li:not([class="upgraded"]) {
 .miniimg{
   img{
     width: 24px !important;
+  }
+}
+.imgSummer{
+  img{
+    width: 100px !important;
+  }
+}
+.imgSummerNPC{
+  img{
+    height: 425px !important;
   }
 }
 .img50{
