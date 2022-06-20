@@ -10,7 +10,7 @@ export default function SummerEvent() {
 
                 <div className='RAIDS'>
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer Event Raids</h1>
-                    <p className="d-flex justify-content-center">On the summer event you can do two raids:&nbsp;<b>Lola Raid</b>&nbsp;and&nbsp;<b>Cubi Raid</b></p>
+
                     <div className='borderoLP'>
                         <div className="d-flex flex-row align-items-center justify-content-center">
                             <div className="p-0 imgSummer">
@@ -63,9 +63,9 @@ export default function SummerEvent() {
                                         </div>
                                     </div>
                                     In each box:<br />
-                                    x20 Clouds<br />
-                                    x10 Fresh Carrot Juice<br />
-                                    x10 Watermelon<br />
+                                    x10 Clouds<br />
+                                    x5 Fresh Carrot Juice<br />
+                                    x5 Watermelon<br />
                                     <br />
                                     Chance of drop:<br />
                                     x1 Angel Crown<br />
@@ -75,8 +75,7 @@ export default function SummerEvent() {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div className='borderoLP'>
+                        <br /><hr /><br />
                         <div className="d-flex flex-row align-items-center justify-content-center">
                             <div className="p-0 imgSummer">
                                 <img src="asset/SummerEvent/cuby.png" alt="" />
@@ -128,9 +127,9 @@ export default function SummerEvent() {
                                         </div>
                                     </div>
                                     In each box:<br />
-                                    x20 Clouds<br />
-                                    x10 Fresh Carrot Juice<br />
-                                    x10 Watermelon<br />
+                                    x10 Clouds<br />
+                                    x5 Fresh Carrot Juice<br />
+                                    x5 Watermelon<br />
                                     <br />
                                     Chance of drop:<br />
                                     x1 Angel Crown<br />
@@ -147,9 +146,7 @@ export default function SummerEvent() {
 
                 <div className='MAPS'>
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer Event Maps</h1>
-                    <p className="d-flex justify-content-center">
-                        There are new maps on this event to farm and enjoy!
-                    </p>
+
                     <div className='borderoLP'>
                         <h3 className='d-flex justify-content-center'><b>Lobby Map</b></h3>
                         <d className='d-flex justify-content-center'>
@@ -169,6 +166,7 @@ export default function SummerEvent() {
                         <d className='d-flex justify-content-center'>
                             On this map you can get gold, Clouds and Sparkles of Light</d>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-farm-map2.png" alt="" /></div>
+                        <br/>
                         <b className='d-flex justify-content-center'>
                             Also there are a map boss who drops:</b>
                         <div className="d-flex flex-row align-items-center justify-content-center">
@@ -192,9 +190,7 @@ export default function SummerEvent() {
 
                 <div className='NPCS AND CRAFTS'>
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer Event NPCs</h1>
-                    <p className="d-flex justify-content-center">
-                        There are few NPCs on this event&nbsp;<b>Captain Pete O'Peng</b>&nbsp;,&nbsp;<b>Captain Jack Panon</b>&nbsp;and&nbsp;<b>Elemental Bushis</b>
-                    </p>
+
                     <div className='borderoLP'>
                         <d className="d-flex justify-content-center"><h3><b>Captain Pete O'Peng</b>&nbsp;<i>for crafting</i></h3></d>
                         <div className="d-flex flex-row justify-content-center">
@@ -204,8 +200,7 @@ export default function SummerEvent() {
                                 <img src="asset/SummerEvent/captain-pete-craft.png" alt="" />
                             </div>
                         </div>
-                    </div>
-                    <div className='borderoLP'>
+                        <br /><hr /><br />
                         <d className="d-flex justify-content-center"><h3><b>Captain Jack Panon</b>&nbsp;<i>for crafting</i></h3></d>
                         <div className="d-flex flex-row justify-content-center">
                             <div className='imgSummerNPC'><img src="asset/SummerEvent/captain-jack.png" alt="" /></div>
@@ -214,9 +209,8 @@ export default function SummerEvent() {
                                 <img src="asset/SummerEvent/captain-jack-craft.png" alt="" />
                             </div>
                         </div>
-                    </div>
-                    <div className="borderoLP">
-                        <d className="d-flex justify-content-center"><h3><b>Elemental Bushis</b>&nbsp;<i>for exchange</i></h3></d>
+                        <br /><hr /><br />
+                        <d className="d-flex justify-content-center"><h3><b>Pirate Elemental Bushis</b>&nbsp;<i>for exchange</i></h3></d>
                         <div className="d-flex flex-row justify-content-center">
                             <div className='imgSummerNPC'><img src="asset/SummerEvent/bushi-shadow.png" alt="" /></div>
                             <div>&nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -235,14 +229,11 @@ export default function SummerEvent() {
 
                 <div className='WORLD BOSS'>
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer World Boss</h1>
-                    <p className="d-flex justify-content-center">
-                        You have access to the Summer World Boss area by taking this portal located in <b>&nbsp;Summer Area 2.</b>
-                    </p>
 
                     <div className='borderoLP'>
-                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss</b></h3>
+                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss [16:25]</b></h3>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-wb.png" alt="" /></div>
-                        <br/>
+                        <br />
                         <d className='d-flex justify-content-center'>
                             You will get the following rewards:</d>
                         <div className='d-flex justify-content-center'>
@@ -253,6 +244,274 @@ export default function SummerEvent() {
                                 1x Sea Box<br />
                                 "Summer Special Ticket"<br />
                             </div></div>
+                    </div>
+                </div>
+
+                <br /> <br />
+
+                <div className='PETS'>
+                    <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer Event New Stuff!</h1>
+                    <div className='borderoLP'>
+                        <div className="row series-image-list ">
+                            <div className='mt-5'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Hawaii Costume Set</th>
+                                            <th scope="col"><img src="asset/SummerEvent/hawaii.png" alt="" /></th>
+                                        </tr>
+                                        Hat:
+                                        <br />
+                                        <d className="item-effect-shell">
+                                            - There's 20% chance not consume a bait.<br />
+                                            - 20% chance of catching bigger fish.
+                                        </d>
+                                        <br />
+                                        <br />
+                                        Costume:
+                                        <br />
+                                        <d className="item-effect-shell">
+                                            - Maximum HP is increased by 2000.<br />
+                                            - 5% double box.<br />
+                                            - Movement speed is decreased by 1.
+                                        </d>
+                                        <br />
+                                        <br />
+                                        Wings:
+                                        <br />
+                                        <d className="item-effect-shell">
+                                            - Damage in raids is increased by 15%.<br />
+                                            - 10% fame.<br />
+                                            - Your specialist's overall skill points are increased by 3.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Cowgirl Chloe's Blessing (S)</th>
+                                            <th scope="col"><img src="asset/SummerEvent/chloe.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - All attacks are increased by 5%.
+                                            <br />
+                                            - All defences are increased by 5%.
+                                            <br />
+                                            - Increases damage from critical hits by 10%.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Snow Fox pet</th>
+                                            <th scope="col"><img src="asset/SummerEvent/fox.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - All attacks in A4 are increased by 5%.
+                                            <br />
+                                            - All defences in A4 are increased by 5%.
+                                        </d>
+                                        <br />
+                                        <br />
+                                        Shadow version:
+                                        <br />
+                                        <d className="item-effect-shell">
+                                            - All attacks in A4 are increased by 15%.
+                                            <br />
+                                            - All defences in A4 are increased by 15%.
+                                            <br />
+                                            - Damage from critical hit is reduced by 10% in A4.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Mini Cuby pet</th>
+                                            <th scope="col"><img src="asset/SummerEvent/cubypet.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - There's a 25% chance of catching a bigger fish.<br />
+                                            - There's a 50% chance of the bait not being consumed when you cast your fishing line.<br />
+                                            - The fishing experience points you receive are increased by 15%.<br />
+                                            - 10% more gold when selling fishes.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Otter pet</th>
+                                            <th scope="col"><img src="asset/SummerEvent/otter.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - 10% chance of double box.<br />
+                                            - Your specialist's elemental skill points are increased by 4.<br />
+                                        </d>
+                                        <br />
+                                        <br />
+                                        Skill "Smackeroo": <i>colldown 40 seconds</i>
+                                        <br />
+                                        <d className="item-effect-shell">
+                                            - There is 100% chance of causing "Delicious Tuna"<br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50. <i>20 seconds</i><br />
+
+                                            - There is 50% chance of causing "Frozen Tuna"<br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%. <i>15 seconds</i><br />
+
+                                            - There is 10% chance of causing "Battle ready"<br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%. <i>10 seconds</i>
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                New Pirate's Special Skill</th>
+                                            <th scope="col"><img src="asset/SummerEvent/pirate.png" alt="" /></th>
+                                        </tr>
+                                        Drink Rum, Yo-Ho-Ho!
+                                        <br />
+                                        <d className="text-success">
+                                            - Spawning 4 mini kangpen mob on the map who attack the closest enemies <i>(like mini Jajamaru)</i>
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Summer <i>Free on the shop</i></th>
+                                            <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - Movement speed is increased by 1.
+                                            <br />
+                                            - 2% chance of double drop during raids.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Shooting Star</th>
+                                            <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - Increase 5% success rate while perfecting SP.<br />
+                                            - There is 5% more chance of getting rarity 7 and 8.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Master of the Seas</th>
+                                            <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - Your specialist's overall skill points are increased by 4.<br />
+                                            - Damage in raids is increased by 20%.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Pirate King / Pirate Queen</th>
+                                            <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - +99% charisma.<br />
+                                            - 2% chance of double box drop during World Boss.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Walking on Clouds</th>
+                                            <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - Chance of having nice dreams +99%.<br />
+                                            - Movement speed is decreased by 2.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                            <div className='mt-8'>
+                                <table className="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                Deep Sea Master</th>
+                                            <th scope="col"><img src="asset/SummerEvent/deepseamaster.png" alt="" /></th>
+                                        </tr>
+                                        <d className="item-effect-shell">
+                                            - Probability of catching a fish is increased by 10%.<br />
+                                            - Chance of catching a bigger fish 5%.
+                                        </d>
+                                        <br />
+                                        <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
+                                    </thead>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
