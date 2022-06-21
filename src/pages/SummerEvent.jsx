@@ -242,7 +242,7 @@ export default function SummerEvent() {
                                 10x Pirate Flags<br />
                                 1x Perfection Box (10 Perfections)<br />
                                 1x Sea Box<br />
-                                "Summer Special Ticket"<br />
+                                With 1% chance "Summer Special Ticket"<br />
                             </div></div>
                     </div>
                 </div>
