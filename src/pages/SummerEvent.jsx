@@ -231,7 +231,7 @@ export default function SummerEvent() {
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer World Boss</h1>
 
                     <div className='borderoLP'>
-                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss [16:30 and 23:10]</b></h3>
+                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss [16:30 and 23:15]</b></h3>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-wb.png" alt="" /></div>
                         <br />
                         <d className='d-flex justify-content-center'>
