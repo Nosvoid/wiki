@@ -17,6 +17,19 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
+                                    <th scope="col">Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - There's 10% more of getting rarity 7-8 while betting.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
                                     <th scope="col">Easter Bunny Costume Set</th>
                                     <th scope="col"><img src="asset/shop/BunnySet.png" alt="" /></th>
                                 </tr>
@@ -149,6 +162,22 @@ export default function Shopupdate() {
                                     - Reduces the enemy's elemental resistances by 10.<br />
                                     - The equipped fairy's element increases by 10.<br />
                                     - Movement speed is increased by 1.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Barni Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Ranged attacks are increased by 12%.<br />
+                                    - Increases damage from critical hits by 15%.<br />
+                                    - Dodge is increased by 80.<br />
+                                    - Increases damage in Christmas Raid by 5%
                                 </d>
                             </thead>
                         </table>
