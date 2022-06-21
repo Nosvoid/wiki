@@ -104,16 +104,14 @@ export default function Shopupdate() {
                                 <br />
                                 Skill "Smackeroo": <i>colldown 40 seconds</i>
                                 <br />
-                                <d className="item-effect-shell">
-                                    - There is 100% chance of causing "Delicious Tuna"<br />
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50.<i>20 seconds</i><br />
+                                <d className="item-effect-shell">- There is 100% chance of causing "Delicious Tuna"<br /></d>
+                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50. <i>20 seconds</i><br /></d>
 
-                                    - There is 50% chance of causing "Frozen Tuna"<br />
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%.<i>15 seconds</i><br />
+                                <d className="item-effect-shell">- There is 50% chance of causing "Frozen Tuna"<br /></d>
+                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%. <i>15 seconds</i><br /></d>
 
-                                    - There is 10% chance of causing "Battle ready"<br />
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%.<i>10 seconds</i>
-                                </d>
+                                <d className="item-effect-shell">- There is 10% chance of causing "Battle ready"<br /></d>
+                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%. <i>10 seconds</i></d>
                             </thead>
                         </table>
                     </div>

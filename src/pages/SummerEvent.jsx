@@ -166,7 +166,7 @@ export default function SummerEvent() {
                         <d className='d-flex justify-content-center'>
                             On this map you can get gold, Clouds and Sparkles of Light</d>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-farm-map2.png" alt="" /></div>
-                        <br/>
+                        <br />
                         <b className='d-flex justify-content-center'>
                             Also there are a map boss who drops:</b>
                         <div className="d-flex flex-row align-items-center justify-content-center">
@@ -374,16 +374,16 @@ export default function SummerEvent() {
                                         <br />
                                         Skill "Smackeroo": <i>colldown 40 seconds</i>
                                         <br />
-                                        <d className="item-effect-shell">
-                                            - There is 100% chance of causing "Delicious Tuna"<br />
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50. <i>20 seconds</i><br />
 
-                                            - There is 50% chance of causing "Frozen Tuna"<br />
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%. <i>15 seconds</i><br />
+                                        <d className="item-effect-shell">- There is 100% chance of causing "Delicious Tuna"<br /></d>
+                                        <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50. <i>20 seconds</i><br /></d>
 
-                                            - There is 10% chance of causing "Battle ready"<br />
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%. <i>10 seconds</i>
-                                        </d>
+                                        <d className="item-effect-shell">- There is 50% chance of causing "Frozen Tuna"<br /></d>
+                                        <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%. <i>15 seconds</i><br /></d>
+
+                                        <d className="item-effect-shell">- There is 10% chance of causing "Battle ready"<br /></d>
+                                        <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%. <i>10 seconds</i></d>
+
                                         <br />
                                         <d className="white-color">_____________________________________________________________________________________________________</d><br /><br />
                                     </thead>
