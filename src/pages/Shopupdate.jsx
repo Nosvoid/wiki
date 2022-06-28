@@ -17,11 +17,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Betting Costume</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    <th scope="col">Into the Void</th>
+                                    <th scope="col"><img src="asset/shop/kov.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 10% more of getting rarity 7-8 while betting.
+                                    - All attacks are increased by 5%.
+                                    - All defences are increased by 5%.
+                                    - Your specialist's overall skill points are increased by 4.
                                 </d>
                             </thead>
                         </table>
@@ -30,15 +32,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Easter Bunny Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/BunnySet.png" alt="" /></th>
+                                    <th scope="col">Frost Warrior Costume Set</th>
+                                    <th scope="col"><img src="asset/shop/frosty.png" alt="" /></th>
                                 </tr>
                                 <br />
                                 Hat:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 2% chance that box drops second time.<br />
-                                    - Increased damage by 10% against raid bosses.
+                                    - All attacks are increased by 4%.<br />
+                                    - Increases damage from critical hits by 10%.
                                 </d>
                                 <br />
                                 <br />
@@ -46,20 +48,32 @@ export default function Shopupdate() {
                                 <br />
                                 <d className="item-effect-shell">
                                     - All defences are increased by 4%.<br />
-                                    - Maximum HP is increased by 2000.
+                                    - Dodge is increased by 50.
                                 </d>
                                 <br />
                                 <br />
                                 Costume Wings:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - Increases fame received by 5%.<br />
+                                    - Shadow element is increased by 30.<br />
                                     - Movement speed is increased by 1.<br />
-                                    - Maximum HP is increased by 2000.
+                                    - There is a 1% chance of causing Shivering Frost.
+                                </d>
+                                <br /><br />
+                                <d className="text-success">
+                                    Shivering Frost<i>(4 seconds)</i>:
+                                    <br />
+                                    - Movement speed is decreased by 5.<br />
+                                    - No attack possible.<br />
+                                    <br />
+                                    <br />
+
+                                    <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/shop/7.png" alt="" /></div>
                                 </d>
                             </thead>
                         </table>
                     </div>
+                    
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
@@ -107,24 +121,14 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Otter Pet (New)</th>
-                                    <th scope="col"><img src="asset/shop/OtterBuff.png" alt="" /></th>
+                                        Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - 10% chance of double box.<br />
-                                    - Your specialist's elemental skill points are increased by 4.<br />
+                                    - Damage in Raids is increased by 8%.<br />
+                                    - All elemental resistance is increased by 7.<br />
+                                    - The chance of receiving a critical hit is increased by 3%.<br />
                                 </d>
-                                <br />
-                                Skill "Smackeroo": <i>colldown 40 seconds</i>
-                                <br />
-                                <d className="item-effect-shell">- There is 100% chance of causing "Delicious Tuna"<br /></d>
-                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce all elemental resistance by 50. <i>20 seconds</i><br /></d>
-
-                                <d className="item-effect-shell">- There is 50% chance of causing "Frozen Tuna"<br /></d>
-                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The chance of receiving a critial hit is increased by 20%. <i>15 seconds</i><br /></d>
-
-                                <d className="item-effect-shell">- There is 10% chance of causing "Battle ready"<br /></d>
-                                <d className="text-success">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Damage from all attacks is increased by 15%. <i>10 seconds</i></d>
                             </thead>
                         </table>
                     </div>
@@ -132,21 +136,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mini Blue Amora Pet</th>
-                                    <th scope="col"><img src="asset/shop/BlueAmoraPetBuff.png" alt="" /></th>
+                                    <th scope="col">Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks increased by 5%.<br />
-                                    - All defences are increased by 6%.<br />
-                                    - Movement speed is increased by 1.<br />
+                                    - Damage to all monsters is increased by 7%.<br />
+                                    - Damage in Raids is increased by 10%.<br />
+                                    - Increases Gold earned by 7%.<br />
                                     - There is a 5% chance of causing "Amora's Heal"
                                 </d>
-                                <br /><br />
-                                <d className="text-success">
-                                    Amora Heal buff <i>(5 seconds)</i>:<br />
-                                    - HP is increased by 5% of damage given.<br />
-                                    - MP is increased by 5% of damage given.
-                                </d>
                             </thead>
                         </table>
                     </div>
@@ -154,13 +152,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Lucy Lopear's Blessing (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/lucy.png" alt="" /></th>
+                                    <th scope="col">Mad March Hare Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/EasterEvent/march.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 15%.<br />
-                                    - Reduces the enemy's elemental resistances by 10.<br />
-                                    - The equipped fairy's element increases by 10.<br />
+                                    - There is 5% chance that picked up gold will be doubled.<br />
+                                    - Increases Gold earned by 20%.<br />
+                                    - Damage to all monsters is increased by 20%.<br />
                                     - Movement speed is increased by 1.
                                 </d>
                             </thead>
@@ -170,14 +168,10 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                    <th scope="col">Raid Ring</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.<br />
-                                    - Increases damage from critical hits by 15%.<br />
-                                    - Dodge is increased by 80.<br />
-                                    - Increases damage in Christmas Raid by 5%
+                                    - When raid is finished, there's a 7% chance that box drops second time.
                                 </d>
                             </thead>
                         </table>
