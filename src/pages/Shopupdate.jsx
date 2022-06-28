@@ -21,8 +21,8 @@ export default function Shopupdate() {
                                     <th scope="col"><img src="asset/shop/kov.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 5%.
-                                    - All defences are increased by 5%.
+                                    - All attacks are increased by 5%.<br />
+                                    - All defences are increased by 5%.<br />
                                     - Your specialist's overall skill points are increased by 4.
                                 </d>
                             </thead>
