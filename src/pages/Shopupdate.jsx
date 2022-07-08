@@ -32,15 +32,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Frost Warrior Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/frosty.png" alt="" /></th>
+                                    <th scope="col">Easter Bunny Costume Set</th>
+                                    <th scope="col"><img src="asset/EasterEvent/BunnySet.png" alt="" /></th>
                                 </tr>
                                 <br />
                                 Hat:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 4%.<br />
-                                    - Increases damage from critical hits by 10%.
+                                    - When raid is finished, there's a 2% chance that box drops second time.<br />
+                                    - Increased damage by 10% against raid bosses.
                                 </d>
                                 <br />
                                 <br />
@@ -48,27 +48,16 @@ export default function Shopupdate() {
                                 <br />
                                 <d className="item-effect-shell">
                                     - All defences are increased by 4%.<br />
-                                    - Dodge is increased by 50.
+                                    - Maximum HP is increased by 2000.
                                 </d>
                                 <br />
                                 <br />
                                 Costume Wings:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - Shadow element is increased by 30.<br />
+                                    - Increases fame received by 5%.<br />
                                     - Movement speed is increased by 1.<br />
-                                    - There is a 1% chance of causing Shivering Frost.
-                                </d>
-                                <br /><br />
-                                <d className="text-success">
-                                    Shivering Frost<i>(4 seconds)</i>:
-                                    <br />
-                                    - Movement speed is decreased by 5.<br />
-                                    - No attack possible.<br />
-                                    <br />
-                                    <br />
-
-                                    <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/shop/7.png" alt="" /></div>
+                                    - Maximum HP is increased by 2000.
                                 </d>
                             </thead>
                         </table>
@@ -86,10 +75,13 @@ export default function Shopupdate() {
                                     - All attacks are increased by 5%.<br />
                                     - Movement speed is increased by 1.<br />
                                     - There is a 5% chance of causing Amora Heal.<br />
-
-                                    Amora Heal :<br />
+                                    </d>
+                                <br /><br />
+                                <d className="text-success">
+                                    Amora Heal<i>(5 seconds)</i>:
+                                    <br />
                                     - MP is increased by 5% of damage given.<br />
-                                    - HP is increased by 5% of damage given.
+                                    - HP is increased by 5% of damage given.<br />
                                 </d>
                             </thead>
                         </table>
