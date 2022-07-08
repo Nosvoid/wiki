@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [28.06.2022]
+                    New Fortune Wheel update is alive. [08.07.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -78,40 +78,18 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Knight Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/KnightCostume.png" alt="" /></th>
+                                    <th scope="col">Blue Amora Pet</th>
+
                                 </tr>
-                                <br />
-                                Hat:
-                                <br />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 6%<br />
-                                    - Hit rate of all attacks is increased by 100.<br />
-                                    - Chance of inflicting critical hits is increased by 3%
-                                </d>
-                                <br />
-                                <br />
-                                Costume:
-                                <br />
-                                <d className="item-effect-shell">
-                                    - All defences are increased by 8%.<br />
-                                    - Movement Speed is increased by 1.<br />
-                                    - Up to level 4 there is a 8% chance of never getting a bad effect.
-                                </d>
-                                <br />
-                                <br />
-                                Costume Wings:
-                                <br />
-                                <d className="item-effect-shell">
-                                    - All attacks are increased by 85.<br />
-                                    - Your specialist's overall skill points are increased by 3.<br />
-                                    - There is a 4% chance of causing Last Hope.
-                                </d>
-                                <br /><br />
-                                <d className="text-success">
-                                    Last Hope<i>(4 seconds)</i>:
-                                    <br />
-                                    - Up to level 5 there is a 25% chance of never getting a bad effect.
+                                    - All defences are increased by 5%.<br />
+                                    - All attacks are increased by 5%.<br />
+                                    - Movement speed is increased by 1.<br />
+                                    - There is a 5% chance of causing Amora Heal.<br />
+
+                                    Amora Heal :<br />
+                                    - MP is increased by 5% of damage given.<br />
+                                    - HP is increased by 5% of damage given.
                                 </d>
                             </thead>
                         </table>
@@ -121,13 +99,11 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Shadow King's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
+                                        Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 8%.<br />
-                                    - All elemental resistance is increased by 7.<br />
-                                    - The chance of receiving a critical hit is increased by 3%.<br />
+                                    - There's 10% more of getting rarity 7-8 while betting.
                                 </d>
                             </thead>
                         </table>
@@ -136,14 +112,11 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Shadow King's Mask</th>
-                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
+                                    <th scope="col">Betting Necklace</th>
+                                    <th scope="col"><img src="asset/shop/betingn.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage to all monsters is increased by 7%.<br />
-                                    - Damage in Raids is increased by 10%.<br />
-                                    - Increases Gold earned by 7%.<br />
-                                    - There is a 5% chance of causing "Amora's Heal"
+                                    - There's 7% more of getting rarity 7-8 while betting.
                                 </d>
                             </thead>
                         </table>
@@ -152,13 +125,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mad March Hare Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/EasterEvent/march.png" alt="" /></th>
+                                    <th scope="col">Lucy Lopear Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/EasterEvent/lucy.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There is 5% chance that picked up gold will be doubled.<br />
-                                    - Increases Gold earned by 20%.<br />
-                                    - Damage to all monsters is increased by 20%.<br />
+                                    - Damage in Raids is increased by 15%.<br />
+                                    - Reduces the enemy'S elemental resistances by 10.<br />
+                                    - The equipped fairy's element increases by 10.<br />
                                     - Movement speed is increased by 1.
                                 </d>
                             </thead>
@@ -168,10 +141,10 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Raid Ring</th>
+                                    <th scope="col">Act4 Bracelet</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 7% chance that box drops second time.
+                                    - When you finish Act4 and Caligor Raid you have 7% chance to get additional box.
                                 </d>
                             </thead>
                         </table>
