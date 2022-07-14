@@ -161,6 +161,31 @@ export default function Books() {
                                 <td>P6</td>
 
                             </tr>
+                            <tr>
+                                <th scope="row">Eagle Loa Tome</th>
+                                <td className="item-effect">Increases agility by 120.
+                                </td>
+                                <td ><img src="asset/prestige81/eagleloatome.png" alt="" /></td>
+                                <td>P8.1</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">Snake Loa Tome</th>
+                                <td className="item-effect">	Increases intelligence by 120.
+                                </td>
+                                <td ><img src="asset/prestige81/eagleloatome.png" alt="" /></td>
+                                <td>P8.1</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">Lion Loa Tome</th>
+                                <td className="item-effect">Increases physical strength by 120.
+                                </td>
+                                <td ><img src="asset/prestige81/eagleloatome.png" alt="" /></td>
+                                <td>P8.1</td>
+
+                            </tr>
+                            
 
                         </tbody>
                     </table>
@@ -221,6 +246,7 @@ export default function Books() {
                                 <td >Increases overall attack power by 50.</td>
 
                             </tr>
+                           
 
                         </tbody>
                     </table>
