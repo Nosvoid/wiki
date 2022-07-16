@@ -104,7 +104,7 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Freaya Partner Card (S Buff)</th>
+                                    <th scope="col">Freya Partner Card (S Buff)</th>
                                     <th scope="col"><img src="asset/shop/betingn.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
