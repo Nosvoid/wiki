@@ -26,7 +26,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory1_2.png" alt="" /></td>
 
-                                <td>You can get Ibrahim Raid in $Warp p3</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Laurena's Necklace</th>
@@ -36,7 +36,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory1_3.png" alt="" /></td>
 
-                                <td>You can get Ibrahim Raid in $Warp p3</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Laurena's Bracelet</th>
@@ -46,7 +46,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory1_1.png" alt="" /></td>
 
-                                <td>You can get Ibrahim Raid in $Warp p3</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Jade Spirit Ring</th>
@@ -56,7 +56,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory2_2.png" alt="" /></td>
 
-                                <td>You can get $Warp from Carno raid in P6</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Occult Necklace</th>
@@ -66,7 +66,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory2_1.png" alt="" /></td>
 
-                                <td>You can get $Warp from Carno raid in P6</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Snake Loa Bracelet</th>
@@ -76,7 +76,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory2_3.png" alt="" /></td>
 
-                                <td>You can get $Warp from Carno raid in P6</td>
+                                <td>You can get it from Ibrahim Raid in $Warp p3</td>
                             </tr>
                             <tr>
                                 <th scope="row">Obsidian Ring</th>
@@ -86,7 +86,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory3_3.png" alt="" /></td>
 
-                                <td>You can have it in production from the Tower NPC in $Warp P7</td>
+                                <td>You can craft it on Prestige 7 ($warp p7, Tower Game Npc) and Prestige 8.1 ($warp p8.1, Family Tower Npc)</td>
                             </tr>
                             <tr>
                                 <th scope="row">Obsidian Necklace</th>
@@ -96,7 +96,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory3_2.png" alt="" /></td>
 
-                                <td>You can have it in production from the Tower NPC in $Warp P7</td>
+                                <td>You can craft it on Prestige 7 ($warp p7, Tower Game Npc) and Prestige 8.1 ($warp p8.1, Family Tower Npc)</td>
                             </tr>
                             <tr>
                                 <th scope="row">Obsidian Bracelet</th>
@@ -106,7 +106,7 @@ export default function Accesory() {
                                 </td>
                                 <td ><img src="asset/accesory/accesory3_1.png" alt="" /></td>
 
-                                <td>You can have it in production from the Tower NPC in $Warp P7</td>
+                                <td>You can craft it on Prestige 7 ($warp p7, Tower Game Npc) and Prestige 8.1 ($warp p8.1, Family Tower Npc)</td>
                             </tr>
                             <tr>
                                 <th scope="row">Purple glowing ring</th>
