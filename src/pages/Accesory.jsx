@@ -118,6 +118,45 @@ export default function Accesory() {
                                 <td>You can get it in nosmall for 999 coins</td>
                             </tr>
 
+                            <tr>
+                                <th scope="row">Lich Energy Necklace</th>
+                                <td className="item-effect">
+                                    Increases PvP attack power by 6%. <br></br>
+                                    Reduces damage received in PvP by 6%. <br></br>
+                                    Ranged attacks are increased by 50. <br></br>
+                        
+                                </td>
+                                <td ><img src="asset/accesory/LichNecklace.png" alt="" /></td>
+
+                                <td>You can get it from Prestige 8.1 ($warp p8.1)</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row">Lich Energy Bracelet</th>
+                                <td className="item-effect">
+                                    Increases PvP attack power by 6%. <br></br>
+                                    Reduces damage received in PvP by 6%. <br></br>
+                                    Magic attacks are increased by 50. <br></br>
+                        
+                                </td>
+                                <td ><img src="asset/accesory/LichBracelet.png" alt="" /></td>
+
+                                <td>You can get it from Prestige 8.1 ($warp p8.1)</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row">Lich Energy Ring</th>
+                                <td className="item-effect">
+                                    Increases PvP attack power by 6%. <br></br>
+                                    Reduces damage received in PvP by 6%. <br></br>
+                                    Meele attacks are increased by 50. <br></br>
+                        
+                                </td>
+                                <td ><img src="asset/accesory/LichRing.png" alt="" /></td>
+
+                                <td>You can get it from Prestige 8.1 ($warp p8.1)</td>
+                            </tr>
+
                         </tbody>
                     </table>
 
