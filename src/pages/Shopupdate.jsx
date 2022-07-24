@@ -123,7 +123,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Lucy Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/EasterEvent/march.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/EasterEvent/lucy.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Damage in Raids is increased by 15%.<br />
