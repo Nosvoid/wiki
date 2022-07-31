@@ -117,6 +117,66 @@ export default function Damage() {
                         <br />
                         <hr />
 
+                        <d className="bcc">
+                            <b> Desert Costume Wings </b>
+                        </d>
+                        (Craft in $warp p8.1) Damage in Raids is increased by 10%.
+                        <br />
+                        <hr />
+
+
+                        <d className="bcc">
+                            <b> Hawaii Costume Wings </b>
+                        </d>
+                        (Summer Event) Damage in Raids is increased by 15%.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Master of the Sea Title </b>
+                        </d>
+                        (Summer Event) Damage in Raids is increased by 20%.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Lucy Lopear PSP </b>
+                        </d>
+                        (Fortune Wheel & Easter Event) Damage in Raids is increased by 15%.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Shadow Long-Logged Spider's Blessing </b>
+                        </d>
+                        (Evolution Event) Damage in Raids is increased by 7%.
+                        <br />
+                        Ranged damage is increased by 5% in raids.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Shadow Devil Vampie Spider's Blessing </b>
+                        </d>
+                        (Evolution Event) Damage in Raids is increased by 7%.
+                        <br />
+                        Magic damage is increased by 5% in raids.
+                        <br />
+                        Critical chance is increased by 15% in raids.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Shadow Darkfrost Snowman Spider's Blessing </b>
+                        </d>
+                        (Evolution Event) Damage in Raids is increased by 7%.
+                        <br />
+                        Meele damage is increased by 5% in raids.
+                        <br />
+                        Critical chance is increased by 15% in raids.
+                        <br />
+                        <hr />
+
 
                     </p>
                 </div>

@@ -62,6 +62,13 @@ export default function Betting() {
                         (Evolution Event) There's 7% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
+
+                        <d className="bcc">
+                            <b> Shooting Star Title </b>
+                        </d>
+                        (Summer Event) There's 5% more of getting rarity 7-8 while betting.
+                        <br />
+                        <hr />
                     </p>
                 </div>
             </div>

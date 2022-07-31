@@ -92,6 +92,38 @@ export default function DB() {
                         <br />
                         <hr />
 
+                        <d className="mcc">
+                            <b> Summer Title </b>
+                        </d>
+                        (Can be obtained from summer event) 
+                        <br />When raid is finished, there's a 2% chance that box drops second time.
+                        <br />
+                        <hr />
+
+                        <d className="mcc">
+                            <b> Pirate Lord Title </b>
+                        </d>
+                        (Can be obtained from summer event) 
+                        <br />There is a 2% chance of getting additional box from World Boss.
+                        <br />
+                        <hr />
+
+                        <d className="mcc">
+                            <b> Otter Pet </b>
+                        </d>
+                        (Can be obtained from summer event) 
+                        <br />When raid is finished, there's a 10% chance that box drops second time.
+                        <br />
+                        <hr />
+
+                        <d className="mcc">
+                            <b> Hawaii Costume </b>
+                        </d>
+                        (Can be obtained from summer event) 
+                        <br />When raid is finished, there's a 5% chance that box drops second time.
+                        <br />
+                        <hr />
+
                     </p>
                 </div>
             </div>

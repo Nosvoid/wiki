@@ -30,7 +30,7 @@ export default function C55() {
                         <b className="item-effect">- Holy light x1:</b> Caligor raid box and Drops from Hardcore Raid Box "(Bounce rate is low.)"<br />
                         <b className="item-effect">- Ancient Equipment x3</b> (bow, sword, armour...): Drops from Kirollas Raid Box<br />
                         <b className="item-effect">- Equipment Crystal x7</b> (bow, sword, dagger...): Drops from Tower box.<br />
-                        <b className="item-effect">- Flame Crystal x2:</b> Can be bought from Alchemist NPC on Nosville. (or $buy crystal X | X = Amount to buy) <br />
+                        <b className="item-effect">- Flame Crystal x1:</b> Can be bought from Alchemist NPC on Nosville. (or $buy crystal X | X = Amount to buy) <br />
                         <b className="item-effect">- C50 Equipment:</b> Drops from Fernon Raids<br />
                     </p>
 

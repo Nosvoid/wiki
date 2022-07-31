@@ -54,12 +54,18 @@ export default function Rep() {
                         (Void Wheel) Increases fame received by 15%.
                         <br />
                         <hr />
+                        <d className="pcc">
+                            <b> Hawaii Costume Wings </b>
+                        </d>
+                        (Summer Event) Increases fame received by 10%.
+                        <br />
+                        <hr />
 
 
                     </p>
                 </div>
             </div>
-        </div>
+       </div>
 
 
     )

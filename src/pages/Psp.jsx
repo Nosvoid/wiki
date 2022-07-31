@@ -55,6 +55,7 @@ export default function Psp() {
                         </div>
 
                     </div>
+                    
                     <div className="card">
                         <div className="flip-card-inner-psp">
                             <div className="flip-card-front">
@@ -63,6 +64,26 @@ export default function Psp() {
                                     <h5 className="card-title nosvoid-color ">Freya Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
+
+
+
+                                    </p>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div className="card">
+                        <div className="flip-card-inner-psp">
+                            <div className="flip-card-front">
+                                <img src="asset/psp/akhenaton.png" className="card-img-top mx-auto pt-5 " alt="..." />
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Akhenaton the Cursed Pharaon</h5>
+                                    <p className="card-text ">
+                                        <h5>Can be obtained in Family Tower Craft NPC.</h5>
 
 
 
@@ -130,6 +151,30 @@ export default function Psp() {
                         </div>
 
                     </div>
+                    <div className="card  ">
+                        <div className="flip-card-inner-psp ">
+                            <div className="flip-card-front">
+                                <img src="asset/psp/lucyloapers.png" className="card-img-top mx-auto pt-5   " alt="..." />
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Lucy Loaper's</h5>
+                                    <p className="card-text ">
+                                        <h5>Can be obtained in Easter Event.</h5>
+
+
+
+                                    </p>
+                                </div>
+
+
+
+                            </div>
+
+                            <div className="flip-card-back">
+
+                            </div>
+                        </div>
+
+                    </div>
                     <div className="card">
                         <div className="flip-card-inner-psp-good">
                             <div className="flip-card-front">
@@ -150,6 +195,7 @@ export default function Psp() {
 
 
                             </div>
+                            
 
                             <div className="flip-card-back">
 
@@ -159,6 +205,7 @@ export default function Psp() {
                         </div>
                     </div>
                 </div>
+                
                 <div className="">
                     <div className="card-group mt-5">
                         <div className="card ">
@@ -242,6 +289,32 @@ export default function Psp() {
                                 </div>
                             </div>
                         </div>
+                        <div className="card">
+                            <div className="flip-card-inner-psp">
+                                <div className="flip-card-front">
+                                    <img
+                                        src="asset/psp/sheriffcloe.png"
+                                        className="  card-img-top mx-auto pt-5 "
+                                        alt="..." />
+                                    <div className="card-body ">
+                                        <h5 className="card-title nosvoid-color ">Sheriff Chloe Partner Card</h5>
+                                        <p className="card-text ">
+                                            <h5>Can be obtained in Summer Event.</h5>
+
+
+                                        </p>
+                                    </div>
+
+
+
+                                </div>
+
+                                <div className="flip-card-back">
+
+
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div className="">
                         <div className="card-group mt-5">
@@ -267,6 +340,7 @@ export default function Psp() {
 
 
                                     </div>
+                                    
 
                                     <div className="flip-card-back ">
                                         <h1 className="nosvoid-color">Accesory Raid drops:</h1>
@@ -290,6 +364,46 @@ export default function Psp() {
                                             <h5 className="card-title nosvoid-color ">Yuna Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5>Can be obtained in Void Mall.</h5>
+
+
+
+                                            </p>
+                                        </div>
+
+
+
+                                    </div>
+
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">High books raid:</h1>
+
+                                        <p>Raid ticket</p>
+                                        <p>x50 Cella powder
+                                        </p>
+                                        <p>x100 Seed of Power</p>
+                                        <p>x100 Angel’s feathers</p>
+                                        <p>x100 Full Moon Crystal
+                                        </p>
+                                        <p>
+                                            <a href='books'>《📘》books-guide
+                                            </a>
+                                        </p>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="card  ">
+                                <div className="flip-card-inner-psp ">
+                                    <div className="flip-card-front">
+                                        <img
+                                            src="asset/psp/madmarch.png"
+                                            className="  card-img-top mx-auto pt-5   "
+                                            alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Mad March Hare</h5>
+                                            <p className="card-text ">
+                                                <h5>Can be obtained in Easter Event</h5>
 
 
 
@@ -428,15 +542,43 @@ export default function Psp() {
                                             </p>
                                         </div>
 
+                                        <div className="flip-card-back">
+
 
 
                                     </div>
+                                </div>
+
+                            </div>
+                            </div>
+                                        <div className="card  ">
+                                <div className="flip-card-inner-psp ">
+                                    <div className="flip-card-front">
+                                        <img
+                                            src="asset/psp/archangel.png"
+                                            className="  card-img-top mx-auto pt-5   "
+                                            alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Archangel Lucifer</h5>
+                                            <p className="card-text ">
+                                                <h5>Can be obtained in A4 Monthly Rewards</h5>
+
+
+
+                                            </p>
+                                        </div>
+                                        
+
+
+                                    </div>
+                                    
 
                                     <div className="flip-card-back">
 
 
 
                                     </div>
+                                    
                                 </div>
 
                             </div>
