@@ -34,7 +34,9 @@ export default function Box() {
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Carno Raid<f className="text-success">  0.6 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Belial Raid<f className="text-success"> 1 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Paimon Raid <f className="text-success">1.2 Points.</f></li>
-            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Hardcore Raid<f className="text-success">  2 Points.</f></li>            
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Hardcore Raid<f className="text-success">  2 Points.</f></li>  
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Ibrahim Raid<f className="text-success">  4 Points.</f></li>   
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Sandstorm Raid<f className="text-success">  1 Points.</f></li>             
           </ul>
 
           <ul className="list-group mt-3">
