@@ -55,6 +55,12 @@ export default function Rep() {
                         <br />
                         <hr />
 
+                            <b> Hawaii Costume Wings </b>
+                        </d>
+                        (Summer Event) Increases fame received by 10%.
+                        <br />
+                        <hr />
+
 
                     </p>
                 </div>
