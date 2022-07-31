@@ -552,41 +552,7 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div className="card  ">
-                                <div className="flip-card-inner ">
-                                    <div className="flip-card-front">
-                                        <img
-                                            src="asset/raids/carno.png"
-                                            className="  card-img-top mx-auto pt-1   "
-                                            alt="..." />
-                                        <div className="card-body ">
-                                            <h5 className="card-title nosvoid-color ">Carno Raid</h5>
-                                            <p className="card-text ">
-                                                <h5>You must be Prestige 6 for the Carno raid.</h5>
-
-                                                <h5>What can I do with Carno raid?</h5>
-
-                                                You can get C50 level accessories <a href='accesory'>《📘》accesory-guide
-                                                </a>
-
-                                            </p>
-                                        </div>
-
-                                        <small className="text-muted">$warp p6</small>
-
-                                    </div>
-
-                                    <div className="flip-card-back">
-                                        <h1 className="nosvoid-color">Carno Raid:</h1>
-
-                                        <p><a href='accesory'>《📘》accesory-guide
-                                        </a></p>
-
-
-                                    </div>
-                                </div>
-
-                            </div>
+                            
                             <div className="card">
                                 <div className="flip-card-inner">
                                     <div className="flip-card-front">
