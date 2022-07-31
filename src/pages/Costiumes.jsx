@@ -1500,6 +1500,143 @@ export default function Costiumes() {
                             </table>
                         </div>
                     </li>
+
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Desert Costume Set</th>
+                                        <th scope="col"><img src="asset/prestige81/newitem4.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Increases gold earned by 10%.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                        <br />
+                                        - Reduces cooldown of skills by 10%.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Movement speed is increased by 1.
+                                        <br />
+                                        - Reduces damage received in PvP by 7%.
+                                        <br />
+                                        - Damage from critical hits is reduced by 15%.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Damage in Raids is increased by 10%.
+                                        <br />
+                                        - Your specialist's overall skill points are increased by 3.
+                                        <br />
+                                        - The equipped fairy's element increases by 10.
+                                    </d>
+                                    <hr />
+                                    
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Hawaii Costume Set</th>
+                                        <th scope="col"><img src="asset/summerevent/hawaii.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - There's 20% chance to not consume a fish bait.
+                                        <br />
+                                        - There's 20% chance of catching a bigger fish.
+                                    
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - When raid is finished, there's a 5% chance that box drops second time.
+                                        <br />
+                                        - Maximum HP is increased by 2000.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Damage in Raids is increased by 15%.
+                                        <br />
+                                        - Your specialist's overall skill points are increased by 3.
+                                        <br />
+                                        - Increases fame received by 10%.
+                                    </d>
+                                    <hr />
+                                    
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Easter Bunny Party Set</th>
+                                        <th scope="col"><img src="asset/costumes/easterbunny.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - When raid is finished, there's a 2% chance that box drops second time.
+                                        <br />
+                                        - Increased damage by 10% against raid bosses.
+                                    
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All defences are increased by 4%.
+                                        <br />
+                                        - Maximum HP is increased by 2000.
+                                        <br />
+                                        
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Increases fame received by 5%.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                        <br />
+                                        - Maximum HP is increased by 2000.
+                                    </d>
+                                    <hr />
+                                    
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
                     <li className="pc">
                         <div className='mt-5 bordero'>
                             <table className="table">
@@ -1886,7 +2023,7 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - When raid is finished, there's a 2% chance that box drops second time.
+                                        - The fishing experience points you receive are increased by 15%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
@@ -1908,7 +2045,7 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - When raid is finished, there's a 2% chance that box drops second time.
+                                        - The fishing experience points you receive are increased by 15%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
@@ -1930,7 +2067,7 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - When raid is finished, there's a 2% chance that box drops second time.
+                                        - The fishing experience points you receive are increased by 15%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
@@ -1952,7 +2089,7 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - When raid is finished, there's a 2% chance that box drops second time.
+                                        - The fishing experience points you receive are increased by 15%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
