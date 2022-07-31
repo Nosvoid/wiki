@@ -128,6 +128,13 @@ export default function Gold() {
                         <br />
                         <hr />
 
+                        <d className="gcc">
+                            <b> Mad March PSP </b>
+                        </d>
+                        20% Gold (Fortune Wheel Reward)
+                        <br />
+                        <hr />
+
                     </p>
                 </div>
             </div>
