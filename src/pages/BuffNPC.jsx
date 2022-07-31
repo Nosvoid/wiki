@@ -41,7 +41,6 @@ export default function Buff() {
                         </d>
                         <br />
                         <div className='d-flex justify-content-center'>
-                            <img src="asset/BuffNPC/p8buff.gif" alt="" />
                         </div>
                     </div>
                 </div>
