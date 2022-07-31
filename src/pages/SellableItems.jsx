@@ -28,6 +28,10 @@ export default function SellableItems() {
                                 <td>50.000.000 gold.</td>
                             </tr>
                             <tr>
+                                <th scope="row danger">Robbery Coin</th>
+                                <td>50.000.000 gold.</td>
+                            </tr>
+                            <tr>
                                 <th scope="row danger">C50 equipment</th>
                                 <td>30.000.000 gold.</td>
                             </tr>
@@ -41,6 +45,10 @@ export default function SellableItems() {
                             </tr>
                             <tr>
                                 <th scope="row danger">Soul of Zenas</th>
+                                <td>7.000.000 gold.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Soul of Sandstorm</th>
                                 <td>7.000.000 gold.</td>
                             </tr>
                             <tr>
@@ -94,6 +102,14 @@ export default function SellableItems() {
                             <tr>
                                 <th scope="row danger">Sealed Hellord Gloves and Shoes</th>
                                 <td>4.000.000 gold.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Lich King Jewels</th>
+                                <td>3.000.000 gold.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Shells</th>
+                                <td>3.000.000 gold.</td>
                             </tr>
                             <tr>
                                 <th scope="row danger">Erenia's Jewels (Necklace, Bracelet, Ring)</th>

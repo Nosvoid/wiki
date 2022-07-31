@@ -15,6 +15,13 @@ export default function Gold() {
                         40% Gold increase (to craft $Warp P5, with fernon egg and you can get 1x fernon egg when you done with fernon raid)
                         <br />
                         <hr />
+                        <d className="gcc"> 
+                            <b> Fox Lady Tittle </b>
+                        </d>
+                        10% Gold increase (Easter Event)
+                        <br />
+                        <hr />
+                        
 
 
                         <d className="gcc">

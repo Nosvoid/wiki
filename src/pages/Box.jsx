@@ -17,6 +17,8 @@ export default function Box() {
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Paimon Box = More chance to get<f className="item-effect"> Orc's Jewel Hero and Paimon's Cursed Soul</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Belial Box = More chance to get <f className="item-effect">Ancient Orc Statue material and Belial's Sword</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Pure Beast Box = More chance to get all primary<f className="item-effect">  Aura materials</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Sandstorm = More chance to get all primary<f className="item-effect">  Rarify Item & Upgrade Item</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Ibrahim Box = More chance to get all primary<f className="item-effect">  Rarify Item & Upgrade Item</f></li>
           </ul>
 
           <ul className="list-group">
@@ -31,7 +33,6 @@ export default function Box() {
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Chicken Queen Raid<f className="text-success">  0.5 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Fernon Raid<f className="text-success"> 0.6 Points.</f> </li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Kirollas Raid<f className="text-success"> 0.6 Points.</f> </li>
-            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Carno Raid<f className="text-success">  0.6 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Belial Raid<f className="text-success"> 1 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Paimon Raid <f className="text-success">1.2 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Hardcore Raid<f className="text-success">  2 Points.</f></li>  
@@ -216,6 +217,33 @@ export default function Box() {
             <li className="list-group-item">1x Partner Ticket Skill (All)</li>
             <li className="list-group-item">30x Giant Lump of Gold</li>
             <li className="list-group-item">10x Black Titanium Bar</li>
+          </ul>
+
+          <ul className="list-group mt-3">
+            <li className="list-group-item d-flex justify-content-center"> <h5>Sandstorm</h5></li>
+            <li className="list-group-item">1x Soul of Sandstorm</li>
+            <li className="list-group-item">150x Angel's feather</li>
+            <li className="list-group-item">1x Upgrade item</li>
+            <li className="list-group-item">1x Rarify item</li>
+            <li className="list-group-item">1x Lich Energy Necklace</li>
+            <li className="list-group-item">2x Cellon (Level 9)</li>
+            <li className="list-group-item">1x Cellon (Level 10)</li>
+            <li className="list-group-item">2x Akamur Coupon</li>
+            <li className="list-group-item">2x Hot Fabric</li>
+            <li className="list-group-item">2x Flame Giant's Heart</li>
+            <li className="list-group-item">2x Magical Camel Parchment Scroll</li>
+            <li className="list-group-item">15x Ancient Orc Gold Coin</li>
+          </ul>
+
+          <ul className="list-group mt-3">
+            <li className="list-group-item d-flex justify-content-center"> <h5>Ibrahim</h5></li>
+            <li className="list-group-item">1x Lich Energy Ring</li>
+            <li className="list-group-item">7x Upgrade Item</li>
+            <li className="list-group-item">7x Rarify Item</li>
+            <li className="list-group-item">100x Giant Lump of Gold</li>
+            <li className="list-group-item">10x Random Amulet Box (x4)</li>
+            <li className="list-group-item">10x Perfection</li>
+            <li className="list-group-item">3x Robbery Coin</li>
           </ul>
 
 

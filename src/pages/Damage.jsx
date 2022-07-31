@@ -23,6 +23,12 @@ export default function Damage() {
                         (Can be crafted after completing Fernon marathon quest.)  Damage in Raids is increased by 7%.
                         <br />
                         <hr />
+                        <d className="bcc">
+                            <b> Easter Bunny Party Hat </b>
+                        </d>
+                        (Can be obtained from Easter event.)  Damage in Raids is increased by 10%.
+                        <br />
+                        <hr />
 
                         <d className="bcc"> 
                             <b> Eliza PSP (S Buff) </b>
