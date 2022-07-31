@@ -48,6 +48,25 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2">
                             <div className="flip-card-front mt-5">
+                                <img src="asset/mate/fox.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Snow Fox</h5>
+                                    <p className="card-text item-effect ">
+                                        <h5>Attack powers are increased by 5% in Act4</h5>
+                                        <h5>Defence powers are increased by 5% in Act4</h5>
+
+                                    </p>
+                                    <small className="text-muted">You can get it on Evolution and Summer Event</small>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div className="card">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/mate/16.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Moss Gloop</h5>
@@ -97,13 +116,34 @@ export default function Pets() {
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Flame</h5>
                                     <p className="card-text item-effect ">
-                                        <h5>All attacks are incrased by 6%</h5>
-                                        <h5>All defences are incrased by 4%</h5>
+                                        <h5>All attacks are incrased by 10%</h5>
+                                        <h5>All defences are incrased by 2%</h5>
                                         <h5>All magic attacks are incrased by 4%</h5>
-                                        <h5>Maximum HP is increased by 3000.</h5>
+                                        <h5>Reduces cooldown of skills by 10%.</h5>
 
                                     </p>
                                     <small className="text-muted">1000 coins</small>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div className="card">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
+                                <img src="asset/mate/cuby.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Mini Cuby</h5>
+                                    <p className="card-text item-effect ">
+                                        <h5>There's a 25% chance of catching a bigger fish.</h5>
+                                        <h5>There's a 50% chance to not consume a fish bait.</h5>
+                                        <h5>The fishing experience points you receive are increased by 15%.</h5>
+                                        <h5>Gold received by selling fish at npc is increased by 10%.</h5>
+
+                                    </p>
+                                    <small className="text-muted">Summer Event</small>
                                 </div>
 
                             </div>
@@ -182,6 +222,30 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2">
                             <div className="flip-card-front mt-5">
+                                <img src="asset/mate/amora.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Mini Blue Amora</h5>
+                                    <p className="card-text item-effect ">
+                                        <h5>All defences are increased by 5%.</h5>
+                                        <h5>All attacks are increased by 5%.</h5>
+                                        <h5>Movement speed is increased by 1.</h5>
+                                        <h5>There's a 3% chance of causing Amora Heal</h5>
+                                        <h5>Amora Heal:</h5>
+                                        <h7>MP is increased by 5% of damage given.</h7>
+                                        <h7>HP is increased by 3% of damage given.</h7>
+
+                                    </p>
+                                    <small className="text-muted">Fortune Wheel</small>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div className="card">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/mate/5.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Super Fortune Bushi</h5>
@@ -242,6 +306,25 @@ export default function Pets() {
                         <div className="card">
                             <div className="flip-card-inner2">
                                 <div className="flip-card-front mt-5">
+                                    <img src="asset/mate/otter.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                    <div className="card-body ">
+                                        <h5 className="card-title nosvoid-color ">Otter</h5>
+                                        <p className="card-text item-effect ">
+                                            <h5>When raid is finished there's a 10% chance that box drops second time.</h5>
+                                            <h5>Your specialist points are increased by 4.</h5>
+
+                                        </p>
+                                        <small className="text-muted">Summer Event</small>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div className="card">
+                            <div className="flip-card-inner2">
+                                <div className="flip-card-front mt-5">
                                     <img src="asset/mate/17.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Santa Bushi</h5>
@@ -272,8 +355,8 @@ export default function Pets() {
                                             <h5 className="card-title nosvoid-color ">Mini Belial</h5>
                                             <p className="card-text item-effect ">
                                                 <h5>All attacks are incrased by 10%</h5>
-                                                <h5>Maximum HP is increased by 3000.</h5>
-                                                <h5>Fire element is increased by 150</h5>
+                                                <h5>Reduces cooldown of skills by 10%.</h5>
+                                                <h5>All Elements are increased by 100.</h5>
                                             </p>
                                             <small className="text-muted">450    coins or you can craft this on p8</small>
                                         </div>
@@ -303,6 +386,26 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2">
                                     <div className="flip-card-front mt-5">
+                                        <img src="asset/mate/fluffy.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Fluffy Bally</h5>
+                                            <p className="card-text item-effect  ">
+                                                <h5>All attacks are increased by 5%.</h5>
+                                                <h5>All defences are increased by 5%.</h5>
+                                                <h5>Reduces damage received in PvP by 10%.</h5>
+
+                                            </p>
+                                            <small className="text-muted">Summer Event, Fortune Wheel</small>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div className="card">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/mate/18.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Fibi Frosty</h5>
@@ -318,6 +421,35 @@ export default function Pets() {
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className="">
+                        <div className="card-group mt-5">
+                            <div className="card">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
+                                        <img src="asset/mate/polarbear.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Polar Bear Snarl</h5>
+                                            <p className="card-text item-effect ">
+                                                <h5>Maximum HP is increased by 3000.</h5>
+                                                <h5>All defences are increased by 8%.</h5>
+                                                <h5>When you're defending there's a 4% chance of receiving Crafted Horn.</h5>
+                                                <h5>Crafted Horn:</h5>
+                                                <h7>Resists forced movement with a probability of 100%.</h7><br></br>
+                                                <h7>All defence powers are increased by (Player Level * 2)</h7><br></br>
+                                                <h7>Reduces cooldown of skills by 20%.</h7><br></br>
+                                                <h7>Reflects an opponent's bad effect with a certain likelihood.</h7><br></br>
+                                                <h7>Every 2 seconds:  Restores (Player Level * 10)HP.</h7>
+                                            </p>
+                                            <small className="text-muted">P8.1 Craft NPC</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
                         </div>
                     </div>
 
