@@ -35,6 +35,19 @@ export default function Buff() {
                 <br />
                 <div className=''>
                     <div className='borderoLP'>
+                        <h3 className='d-flex justify-content-center'><b>NosVille, Prestige 5, Prestige 7, Prestige 8 & Prestige 8.1 Buff NPCs:&nbsp;</b> <i>50kk</i></h3>
+                        <d className='d-flex justify-content-center'>
+                            WK, Holy, DG, Sader, Blue Mage, Red Mage, Warrior, Demonic Power and Haetae Energy Buffs.&nbsp;<i>Duration: 1 hour.</i>
+                        </d>
+                        <br />
+                        <div className='d-flex justify-content-center'>
+                            <img src="asset/BuffNPC/p8buff.gif" alt="" />
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div className=''>
+                    <div className='borderoLP'>
                         <h3 className='d-flex justify-content-center'><b>Act 4:&nbsp;</b> <i>50kk</i></h3>
                         <d className='d-flex justify-content-center'>
                             When you finish Act4 and Caligor Raid you have 7% chance to get aditional box.&nbsp;<i>Duration: 50 min</i>
