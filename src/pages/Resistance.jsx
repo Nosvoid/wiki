@@ -52,7 +52,7 @@ export default function Resistance() {
                             <tr>
                                 <th scope="row">Ancient Beast Shoes</th>
                                 <td ><img src="asset/res/res6.png" alt="" /></td>
-                                <td >You can craft with x15 jewely crystal, x30 Obdisian from $Warp P7 tower NPC.</td>
+                                <td >You can craft with x15 jewely crystal, x30 Obdisian from $Warp P7 tower NPC, Family Tower Craft</td>
 
                             </tr>
                             <tr>
@@ -95,7 +95,7 @@ export default function Resistance() {
                             <tr>
                                 <th scope="row">Ancient Beast Gloves</th>
                                 <td ><img src="asset/res/res12.png" alt="" /></td>
-                                <td >You can craft with x15 jewely crystal, x30 Obdisian from $Warp P7 tower NPC.</td>
+                                <td >You can craft with x15 jewely crystal, x30 Obdisian from $Warp P7 tower NPC, Family Tower Craft.</td>
 
                             </tr>
 

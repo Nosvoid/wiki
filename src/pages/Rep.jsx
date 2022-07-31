@@ -61,6 +61,13 @@ export default function Rep() {
                         <br />
                         <hr />
 
+                        <d className="pcc">
+                            <b> Easter Bunny Party Costume Wings </b>
+                        </d>
+                        (Easter Event) Increases fame received by 5%.
+                        <br />
+                        <hr />
+
 
                     </p>
                 </div>

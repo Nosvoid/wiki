@@ -420,7 +420,7 @@ export default function Raids() {
                                         <h1 className="nosvoid-color">Accesory Raid drops:</h1>
 
                                         <p>Cellon 8~10 Level</p>
-                                        <p>Laurena accessories</p>
+                                        <p>Laurena accessories and Occult accesories</p>
                                         <p>Robber Gang gold coin(For rune craft)</p>
 
                                     </div>
@@ -552,13 +552,52 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            
+                            <div className="card  ">
+                                <div className="flip-card-inner ">
+                                    <div className="flip-card-front">
+                                        <img
+                                            src="asset/raids/hardcore.png"
+                                            className=" toobigimg card-img-top mx-auto pt-1   "
+                                            alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Hardcore Raid</h5>
+                                            <p className="card-text ">
+                                                <h5>You must be Prestige 8 for the Hardcore raid.</h5>
+
+                                                <h5>Max 5 times per day</h5>
+
+                                               
+
+                                            </p>
+                                        </div>
+
+                                        <small className="text-muted">$warp p8</small>
+
+                                    </div>
+
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">Carno Raid:</h1>
+
+                                        <p>Holy Light x1</p>
+<p>Broken Yertirand's Key x1</p>
+<p>Winter Costume Set x1</p>
+<p>Rarify Item x3</p>
+<p>Upgrade Item x1</p>
+<p>Partner Skil Ticket (All) x1</p>
+<p>Giant Lump of Gold x30</p>
+<p>Black Titanium Bar x10</p>
+
+
+                                    </div>
+                                </div>
+
+                            </div>
                             <div className="card">
                                 <div className="flip-card-inner">
                                     <div className="flip-card-front">
                                         <img
                                             src="asset/raids/foxy.png"
-                                            className="  card-img-top mx-auto pt-1 "
+                                            className=" card-img-top mx-auto pt-1  "
                                             alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color "> Foxy Raid</h5>
@@ -584,6 +623,48 @@ export default function Raids() {
                                         <p>x150 Full Moon Crystal</p>
                                         <p><a href='books'>《📘》books-guide
                                         </a></p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="card">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
+                                        <img
+                                            src="asset/raids/sandstorm.png"
+                                            className=" card-img-top mx-auto pt-1  "
+                                            alt="..." />
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color "> Sandstorm Raid</h5>
+                                            <p className="card-text ">
+                                                <h5>You must be prestige 8 for Foxy Raid</h5>
+
+                                                <h5>What can I do with Foxy raid?</h5>
+
+                                                You can get Cellon (Level 10) and Lich King Jewel
+                                            </p>
+                                        </div>
+
+                                        <small className="text-muted">$warp p8.1</small>
+
+                                    </div>
+
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color"> Foxy Raid:</h1>
+
+                                        <p>1x Soul of Sandstorm</p>
+                                        <p>150x Angel's feather</p>
+                                        <p>1x Upgrade item</p>
+                                        <p>1x Rarify item</p>
+                                        <p>1x Lich Energy Necklace</p>
+                                        <p>2x Cellon (Level 9)</p>
+                                        <p>1x Cellon (Level 10)</p>
+                                        <p>2x Akamur Coupon</p>
+                                        <p>2x Hot Fabric</p>
+                                        <p>2x Flame Giant's Heart</p>
+                                        <p>2x Magical Camel Parchment Scroll</p>
+                                        <p>15x Ancient Orc Gold Coin</p>
+                                        
 
                                     </div>
                                 </div>
@@ -722,6 +803,43 @@ export default function Raids() {
                                         </div>
                                     </div>
                                 </div>
+                                <div className="card">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+                                            <img
+                                                src="asset/raids/ibrahim.png"
+                                                className=" toobigimg card-img-top mx-auto pt-1 "
+                                                alt="..." />
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">Ibrahim Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>You must be prestige 8 for Ibrahim Raid.</h5>
+
+                                                    <h5>What can I do with Paimon Raid?</h5>
+
+                                                    You can get a lot of money.
+                                                </p>
+                                            </div>
+
+                                            <small className="text-muted">$warp p8.1</small>
+
+                                        </div>
+
+                                        <div className="flip-card-back">
+                                            <h1 className="nosvoid-color">Paimon Raid:</h1>
+
+                                            <p>1x Lich Energy Ring</p>
+                                            <p>7x Upgrade Item</p>
+                                            <p>7x Rarify Item</p>
+                                            <p>100x Giant Lump of Gold</p>
+                                            <p>10x Random Amulet Box (x4)</p>
+                                            <p>10x Perfection</p>
+                                            <p>3x Robbery Coin</p>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
 
                             </div>
                             <div className="">
@@ -768,6 +886,7 @@ export default function Raids() {
                                             </div>
                                         </div>
                                     </div>
+                                    
 
 
 
@@ -776,6 +895,8 @@ export default function Raids() {
                                 </div>
 
                             </div>
+                            
+                            
                         </div>
                     </div>
                 </div>

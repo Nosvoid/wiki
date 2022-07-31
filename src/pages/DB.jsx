@@ -23,6 +23,12 @@ export default function DB() {
                         (Summer Event, Halloween Event & Fortune Wheel Reward) When raid is finished, there's a 5% chance that box drops second time.
                         <br />
                         <hr />
+                        <d className="mcc">
+                            <b> Easter Bunny Party Hat </b>
+                        </d>
+                        (Easter Event & Fortune Wheel Reward) When raid is finished, there's a 2% chance that box drops second time.
+                        <br />
+                        <hr />
 
 
                         <d className="mcc">

@@ -55,9 +55,9 @@ export default function Exp() {
                         <br />
                         <hr />
                         <d className="dcc">
-                            <b> Chloe Partner Card </b>
+                            <b> Sheriff Chloe Partner Card </b>
                         </d>
-                        (Summer Event, Arena of Talent & Fortune Wheel) Experience Gain is increased by 20%, Increases champion experience received by 20%.
+                        (Summer Event) Experience Gain is increased by 20%, Increases champion experience received by 20%.
                         <br />
                         <hr />
                         <d className="dcc">
