@@ -1127,6 +1127,58 @@ export default function Pets() {
                                 <img src="asset/EvolutionEvent/Spider.png" alt="" />
                             </td>
                         </tr>
+                        
+                    </tbody>
+                </table>
+                <table className="table  text-dark">
+                    <thead className="thead-dark">
+                        <tr>
+                        <th scope="col">Snow Fox's Blessing</th>
+                            <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr className='tr1'>
+                            <td>
+                                <d className="item-effect-shell">
+                                    Attack powers are increased by 5% in Act4.
+                                    <br />
+                                    Defence powers are increased by 5% in Act4.
+                                    <br />
+                            </d>
+                                <br />
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <b className="item-effect-shell">
+                                Attack powers are increased by 15% in Act4.
+                                    <br />
+                                    Attack powers are increased by 15% in Act4.
+                                    <br />
+                                    Damage from critical hits is reduced by 15%.
+                                    <br />
+                                    
+                                </b>
+                                <br />
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                              
+                              
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="" alt="" />
+                            </td>
+                        </tr>
+                        
                     </tbody>
                 </table>
             </div>
