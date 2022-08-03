@@ -72,11 +72,11 @@ export default function TeamMembers() {
                                 <td>Game Designer</td>
                                 <td className="centered"><img src="asset/team/GameD.webp" alt="" /></td>
                             </tr>
-                            <tr className='wiki-editor-color'>
-                                <th scope="row">Blauker</th>    
-                                <td>ESP/ENG</td>
-                                <td>Game Master / Wiki Editor</td>
-                                <td className="centered"><img src="asset/team/Web.webp" alt="" /></td>
+                            <tr className='game-master-color'>
+                                <th scope="row">Megumin~</th>    
+                                <td>TR/ENG</td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Akita</th>
@@ -96,11 +96,23 @@ export default function TeamMembers() {
                                 <td>Game Master</td>
                                 <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
                             </tr>
-                            <tr className='rule-color'>
+                            <tr className='game-master-color'>
                                 <th scope="row">Temko</th>
                                 <td>FR/ENG</td>
-                                <td>Game Master / Rule Designer</td>
-                                <td className="centered"><img src="asset/team/Rule.png" alt="" /></td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
+                            </tr>
+                            <tr className='game-master-color'>
+                                <th scope="row">-Drecker</th>
+                                <td>ITA/ENG</td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
+                            </tr>
+                            <tr className='game-master-color'>
+                                <th scope="row">Elite-</th>
+                                <td>HK/ENG</td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Krypton69</th>
@@ -132,12 +144,7 @@ export default function TeamMembers() {
                                 <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/GS.webp" alt="" /></td>
                             </tr>
-                            <tr className='supporter-color'>
-                                <th scope="row">-Drecker </th>
-                                <td>ITA/ENG</td>
-                                <td>Game Supporter</td>
-                                <td className="centered"><img src="asset/team/GS.webp" alt="" /></td>
-                            </tr>
+                        
                             <tr className='supporter-color'>
                                 <th scope="row">Gumiho </th>
                                 <td>TR/ITA/ENG</td>
@@ -145,8 +152,14 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/GS.webp" alt="" /></td>
                             </tr>
                             <tr className='supporter-color'>
-                                <th scope="row">Elite-</th>
-                                <td>HK/ENG</td>
+                                <th scope="row">Komendant</th>
+                                <td>PL/ENG</td>
+                                <td>Game Supporter</td>
+                                <td className="centered"><img src="asset/team/GS.webp" alt="" /></td>
+                            </tr>
+                            <tr className='supporter-color'>
+                                <th scope="row">TheAnnoyingCat</th>
+                                <td>ES/ENG</td>
                                 <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/GS.webp" alt="" /></td>
                             </tr>
