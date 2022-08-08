@@ -102,7 +102,7 @@ export default function EvolutionEvent() {
                 <div className="d-flex flex-row">
                     <div className="p-0"><b>Black Gemstone</b></div>
                     <div className="p-8"><img src="asset/EvolutionEvent/BlackGemstone.png" alt="" /></div>
-                    <div className="p-1"><i>Obtained from every monsters</i></div>
+                    <div className="p-1"><i>Obtained from Prestige 7 and 8 monsters</i></div>
                 </div>
                 <div className="d-flex flex-row">
                     <div className="p-0"><b>Diamond</b></div>
