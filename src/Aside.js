@@ -220,7 +220,7 @@ const Aside = ({ setLocale }) => {
 
             </SubMenu>
             <SubMenu
-              suffix={<span className="badge red">0</span>}
+              suffix={<span className="badge red">1</span>}
               title={intl.formatMessage({ id: 'During Events' })}
               icon={<FaHeart />}
             >
