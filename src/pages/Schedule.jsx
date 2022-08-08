@@ -78,24 +78,24 @@ export default function Schedule() {
 
                     </ul>
                     <ul className="list-group mt-5">
-                        <li className="list-group-item d-flex justify-content-center bg-primary  text-white">[Act4 World Boss Schedule]</li>
+                        <li className="list-group-item d-flex justify-content-center bg-danger  text-white">[Act4 World Boss Schedule]</li>
                         <li className="list-group-item d-flex justify-content-center">16:15</li>
                         <li className="list-group-item d-flex justify-content-center">23:00</li> 
                     </ul>
 
                     <ul className="list-group mt-5">
-                        <li className="list-group-item d-flex justify-content-center bg-primary  text-white">[Prestige 8.1 World Boss Schedule]</li>
+                        <li className="list-group-item d-flex justify-content-center bg-danger  text-white">[Prestige 8.1 World Boss Schedule]</li>
                         <li className="list-group-item d-flex justify-content-center">16:40</li>
                         <li className="list-group-item d-flex justify-content-center">01:00</li> 
                     </ul>
 
                     <ul className="list-group mt-5">
-                        <li className="list-group-item d-flex justify-content-center bg-primary  text-white">[Family Dungeon Schedule]</li>
+                        <li className="list-group-item d-flex justify-content-center bg-warning  text-white">[Family Dungeon Schedule]</li>
                         <li className="list-group-item d-flex justify-content-center">17:00</li>
                     </ul>
 
                     <ul className="list-group mt-5">
-                        <li className="list-group-item d-flex justify-content-center bg-primary  text-white">[Meteorite Game]</li>
+                        <li className="list-group-item d-flex justify-content-center bg-success  text-white">[Meteorite Game]</li>
                         <li className="list-group-item d-flex justify-content-center">01:15</li>
                         <li className="list-group-item d-flex justify-content-center">06:00</li>
                         <li className="list-group-item d-flex justify-content-center">14:30</li>

@@ -224,7 +224,7 @@ const Aside = ({ setLocale }) => {
               title={intl.formatMessage({ id: 'During Events' })}
               icon={<FaHeart />}
             >
-              
+              <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
               {/* 
                 
 

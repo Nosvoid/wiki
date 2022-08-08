@@ -34,7 +34,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Caligor's Golden Horn</th>
-                                    <th scope="col"><img src="asset/shop/caligorhelmet.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/shop/caligor31.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Increases PvP attack power by 10%.<br />
@@ -50,7 +50,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Fluffy Pet</th>
-                                    <th scope="col"><img src="asset/EasterEvent/fluffy.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/EasterEvent/fluff.png" alt="" /></th>
 
                                 </tr>
                                 <d className="item-effect-shell">
