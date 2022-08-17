@@ -85,7 +85,7 @@ export default function Shopupdate() {
                                 <br />
                                 <d className="item-effect-shell">
                                     - All defences are increased by 8%.<br />
-                                    - Movement Speed is increased by 1.
+                                    - Movement Speed is increased by 1.<br />
                                     - Up to level 4 there is a 8% chance of never getting a bad effect.
                                     </d>
                                     <br />
@@ -93,8 +93,8 @@ export default function Shopupdate() {
                                 Costume Wings:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 85.
-                                    - Your specialist's overall skill points are increased by 3.
+                                    - All attacks are increased by 85.<br />
+                                    - Your specialist's overall skill points are increased by 3.<br />
                                     - There is a 4% chance of causing Last Hope
                                     </d>
                                     <br />
@@ -133,7 +133,7 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Fluffy McFly</th>
+                                    <th scope="col">Fluffy McFly Mount</th>
                                     <th scope="col"><img src="asset/shop/mcmountshop.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
