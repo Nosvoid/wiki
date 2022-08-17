@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [09.08.2022]
+                    New Fortune Wheel update is alive. [17.08.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -17,13 +17,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni Partner Card (S Buff)</th>
+                                    <th scope="col">Mad March Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/madmarchshop.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.<br />
-                                    - Increases damage from critical hits by 15%.<br />
-                                    - Dodge is increased by 80.<br />
-                                    - Increases damage in Christmas Raid by 5%.
+                                    - There is 5% chance that picked up gold will be doubled.<br />
+                                    - Increases Gold earned by 20%.<br />
+                                    - Damage to all monsters is increased by 20.<br />
+                                    - Movement speed is increased by 1.
                                 </d>
                             </thead>
                         </table>
@@ -32,7 +33,7 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Batman Mask (NEW)</th>
+                                    <th scope="col">Caligor's Golden Horn</th>
                                     <th scope="col"><img src="asset/shop/caligor31.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
@@ -48,14 +49,16 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Fluffy Pet</th>
-                                    <th scope="col"><img src="asset/EasterEvent/fluff.png" alt="" /></th>
+                                    <th scope="col">Koala Pet</th>
+                                    <th scope="col"><img src="asset/shop/koalashop.png" alt="" /></th>
 
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 5%.<br />
-                                    - All defences are increased by 5%.<br />
-                                    - Reduces damage received in PvP by 10%.
+                                    - When raid is finished, there's a 5% chance that box drops second time.<br />
+                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.<br />
+                                    - Increases fame received by 15%.<br />
+                                    - Increases Gold earned by 15%. <br />
+                                    - Damage in Raids is increased by 5%.
 
                                 </d>
                             </thead>
@@ -65,24 +68,36 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Snorkeling Costume Set</th>
+                                    <th scope="col">Knight Costume Set</th>
+                                    <th scope="col"><img src="asset/shop/shopknight.png" alt="" /></th>
                                 </tr>
                                 <br />
                                 Hat:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - There is bigger chance to catch loot while fishing.<br />
-                                    - Skill cooldown is increased by 5%.<br />
-                                    - Movement speed is increased by 2.
+                                    - All attacks are increased by 6%.<br />
+                                    - Hit rate of all attacks is increased by 100.<br />
+                                    - Chance of inflicting critical hits is increased by 3%.
                                 </d>
                                 <br />
                                 <br />
                                 Costume:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - There's a 30% chance of catching a bigger fish.<br />
-                                    - There is bigger chance to catch loot while fishing.
+                                    - All defences are increased by 8%.<br />
+                                    - Movement Speed is increased by 1.
+                                    - Up to level 4 there is a 8% chance of never getting a bad effect.
                                     </d>
+                                    <br />
+                                <br />
+                                Costume Wings:
+                                <br />
+                                <d className="item-effect-shell">
+                                    - All attacks are increased by 85.
+                                    - Your specialist's overall skill points are increased by 3.
+                                    - There is a 4% chance of causing Last Hope
+                                    </d>
+                                    <br />
                             </thead>
                         </table>
                     </div>
@@ -104,13 +119,12 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Aegir Partner Card (S Buff)</th>
+                                <th scope="col">Shooting Star</th>
+                                    <th scope="col"><img src="asset/shop/shootingstarshop.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Meele attacks are increased by 12%.<br />
-                                    - All defence powers are increased by 150.<br />
-                                    - Hit rate of all attacks is increased by 80.<br />
-                                    - Increases damage in Christmas Raid by 5%.
+                                    - There's 5% more chance of getting rarity 7-8 while betting.<br />
+                                    - Increase 5% success rate while perfecting SPs.
                                 </d>
                             </thead>
                         </table>
@@ -119,15 +133,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Lucy Lopear Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    <th scope="col">Fluffy McFly</th>
+                                    <th scope="col"><img src="asset/shop/mcmountshop.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 15%.<br />
-                                    - Reduces the enemy's elemental resistances by 10.<br />
-                                    - The equipped fairy's element increases by 10.<br />
-                                    - Movement speed is increased by 1
+                                    - Speed : 34
                                 </d>
+
+                                <th scope="col"><img src="asset/shop/newmountpreview.png" alt="" /></th>
                             </thead>
                         </table>
                     </div>
