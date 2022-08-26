@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [17.08.2022]
+                    New Fortune Wheel update is alive. [26.08.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -17,14 +17,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mad March Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/madmarchshop.png" alt="" /></th>
+                                    <th scope="col">Archangel Lucifer Partner Card (S Buff)</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There is 5% chance that picked up gold will be doubled.<br />
-                                    - Increases Gold earned by 20%.<br />
-                                    - Damage to all monsters is increased by 20.<br />
-                                    - Movement speed is increased by 1.
+                                    - All attacks are increased by 7%.<br />
+                                    - All defences are increased by 7%.<br />
+                                    - There's a 3% chance that participation points on Act 4 after a kill are doubled.<br />
+                                    - Movement speed is increased by 2.
                                 </d>
                             </thead>
                         </table>
@@ -33,8 +32,7 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Caligor's Golden Horn</th>
-                                    <th scope="col"><img src="asset/shop/caligor31.png" alt="" /></th>
+                                    <th scope="col">Batman Mask</th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Reduces damage received in PvP by 10%.<br />
@@ -49,16 +47,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Koala Pet</th>
-                                    <th scope="col"><img src="asset/shop/koalashop.png" alt="" /></th>
+                                    <th scope="col">Shadow Snow Fox Pet</th>
 
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 5% chance that box drops second time.<br />
-                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.<br />
-                                    - Increases fame received by 15%.<br />
-                                    - Increases Gold earned by 15%. <br />
-                                    - Damage in Raids is increased by 5%.
+                                    - Attack powers are increased by 15% in Act 4.<br />
+                                    - All defences are increased by 15% in Act 4.<br />
+                                    - Damage from critical hits is reduced by 15%.
 
                                 </d>
                             </thead>
@@ -105,12 +100,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Into The Void Title</th>
+                                    <th scope="col">Aegir Partner Card (S Buff)</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 5%.<br />
-                                    - All defences are increased by 5%.<br />
-                                    - Your specialist's overall skill points are increased by 4.
+                                    - Melee attacks are increased by 12%.<br />
+                                    - All defence powers are increased by 150.<br />
+                                    - Hit rate of all attacks is increased by 80.<br />
+                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
                             </thead>
                         </table>
@@ -119,12 +115,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                <th scope="col">Shooting Star</th>
-                                    <th scope="col"><img src="asset/shop/shootingstarshop.png" alt="" /></th>
+                                <th scope="col">Barni Partner Card (S Buff)</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 5% more chance of getting rarity 7-8 while betting.<br />
-                                    - Increase 5% success rate while perfecting SPs.
+                                    - Ranged attacks are increased by 12%.<br />
+                                    - Increases damage from critical hits by 15%.<br />
+                                    - Dodge is increased by 80.<br />
+                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
                             </thead>
                         </table>
@@ -133,14 +130,12 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Fluffy McFly Mount</th>
-                                    <th scope="col"><img src="asset/shop/mcmountshop.png" alt="" /></th>
+                                    <th scope="col">Betting Costume</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Speed : 34
+                                    - There's 10% more chance of getting rarity 7-8 while betting.
                                 </d>
 
-                                <th scope="col"><img src="asset/shop/newmountpreview.png" alt="" /></th>
                             </thead>
                         </table>
                     </div>
